@@ -1,9 +1,9 @@
 # Mini-Project-1-Product-Demand-Prediction
 
-1. The aim
+1. 
 The aim of this project is to predict how many units of a product will be sold given it initial price and the price after discount.
 
-3. How to run
+3. 
 To run the code, first download the notebook and the data. Then you can run it locally if you have Jupyter installed, or upload it to google colab,
 for which you will need google account.
 
