@@ -14,6 +14,6 @@ The train_test_split from scikit-learn is used to divide the data into training 
 I used decision tree regressor from scikit-learn library to build the regression model. 
 For evaluation I used the model.score function which is the same r2 score and mean squared error.  
 
-6. The result
+6. 
 Decision tree had r2 score of 0.43594810058559585 and mean squared error of 1845.8316721211518 on test data.
 
