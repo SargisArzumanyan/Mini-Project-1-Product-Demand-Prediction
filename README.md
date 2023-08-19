@@ -10,7 +10,7 @@ for which you will need google account.
 3. Libraries used.  
 Pandas is used to open the dataset and to get some statistical information.
 matplotlib is used to visualize the relationships between features.
-The train_test_split from scikit-learn is used to divide the data into training and test parts 
+The train_test_split from scikit-learn is used to divide the data into training and test parts. 
 I used decision tree regressor from scikit-learn library to build the regression model. 
 For evaluation I used the model.score function which is the same r2 score and mean squared error.  
 
