@@ -15,6 +15,7 @@ I used decision tree regressor from scikit-learn library to build the regression
 For evaluation I used the model.score function which is the same r2 score and mean squared error.  
 
 4. The dataset contains 'ID', 'Store ID', "Base Price', and 'Total Price' features from which only 'Base Price' and 'Total Price' are used for prediction.
+The label is 'Units Sold'.
 
 5. The result of the model.
 Decision tree had r2 score of 0.43594810058559585 and mean squared error of 1845.8316721211518 on test data.
