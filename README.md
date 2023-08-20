@@ -17,6 +17,9 @@ For evaluation I used the model.score function which is the same r2 score and me
 4. The dataset contains 'ID', 'Store ID', "Base Price', and 'Total Price' features from which only 'Base Price' and 'Total Price' are used for prediction.
 The label is 'Units Sold'.
 
-5. The result of the model.
+5. Data visualization
+![total price - units sold](https://github.com/SargisArzumanyan/Mini-Project-1-Product-Demand-Prediction/assets/82839525/1c90542a-6ae3-41a2-b9fb-c82ab5383a28)
+
+6. The result of the model.
 Decision tree had r2 score of 0.43594810058559585 and mean squared error of 1845.8316721211518 on test data.
 
